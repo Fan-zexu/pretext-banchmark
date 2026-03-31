@@ -1,0 +1,5 @@
+{
+  "name": "Pretext Layout Benchmark & Stress Test",
+  "description": "A high-performance typography benchmark comparing @chenglou/pretext against native browser DOM layout at novel-scale text volumes.",
+  "requestFramePermissions": []
+}
